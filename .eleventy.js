@@ -1,10 +1,8 @@
-export default function(config) {
+export default async function(config) {
+  config.addPassthroughCopy("src/CNAME");
   return {
     dir: {
       input: "src",
-      includes: "_includes",
-      data: "_data",
-      output: "_site"
     }
-  };
+  }
 };
