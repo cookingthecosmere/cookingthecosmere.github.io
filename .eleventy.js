@@ -1,8 +1,9 @@
 export default async function(config) {
-  config.addPassthroughCopy("src/CNAME");
+  config.addPassthroughCopy("CNAME");
   return {
     dir: {
       input: "src",
+      output: "dist",
     }
   }
 };
