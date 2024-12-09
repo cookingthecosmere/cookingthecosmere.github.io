@@ -3,7 +3,7 @@ export default async function(config) {
   return {
     dir: {
       input: "src",
-      output: "dist",
+      output: "docs",
     }
   }
 };
