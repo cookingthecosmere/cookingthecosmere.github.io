@@ -52,9 +52,8 @@ body {
 }
 
 .center-box {
-  margin: auto;
+  margin: 5% auto;
   width: 80%;
-  margin-top: 5%;
 
   background-color: #fff;
   border: 3px solid #000;
