@@ -20,9 +20,15 @@ bryan.vanderhoof@gmail.com or find me on the
 
 You can download a [screen-friendly copy](assets/vol1.pdf) of the cookbook.
 
-## Ingredients
+## Errata
 
-### Salt
+**Lavis Bread**
+
+This recipe contains a typo. The instructions tell you to add sugar, but the ingredients don't list
+it. The correct amount is 250g. You can reduce this if you prefer a less-sweet cornbread, but I
+suggest adding extra butter and/or an egg yolk if you do to prevent the cornbread from drying out.
+
+## On Salt
 
 Salt comes in many varieties, but typically the main variables are mineral content and crystal
 size/shape. These reflect how the salt was made and where it comes from and can affect flavor and
@@ -57,6 +63,116 @@ Common variations include:
 All of the recipes in this book use **Diamond Crystal kosher salt**. If using table salt or Morton's
 kosher salt, consider halving the suggested quantities and adjusting to taste.
 
-### Other ingredients
+## Recipe Notes
 
-More information will come soon
+### Chouta
+
+**The Bread**
+
+If you don't want to make a bread dough or deep fry a bunch of large discs, the easiest thing is to
+get a good, fresh pita, preferably something baked locally. But if you don't have access to that,
+any store-bought one you like will work. Heat a couple of tablepoons of oil in a frying pan (ideally
+just a little bit larger than your pita) over medium-high, and fry the pita for a minute or two per
+side, until it's browning and a little crisp. Remove to a paper towl and sprinkle with a touch of
+salt.
+
+**The Meatballs**
+
+If it's easier, you can replace the meat, spices, and some of the salt with a good chorizo.
+
+### Curries
+
+**The Meat**
+
+You really want something that will braise well here, so something on the tougher side with a bit of
+fat. I suggest pork shoulder, but I actually used pork short ribs (deboned) when originally making
+this recipe, and have tried it with pork jowl. Just don't use something quick-cooking like loin.
+
+**Ginger or Curry Leaves**
+
+Neither of these is particularly easy to find in most places, so feel free to leave them out. I used
+ginger leaves (which you usually find attached to young ginger, which can sometimes be found at fall
+farmer's markets or Asian groceries). They have a slight chew and a mild kick.
+
+If you're going to use curry leaves, I suggest heating a couple tablespoons of oil over medium high
+and frying the leaves for a few seconds until they're crisp. Then you can dump the oil and the
+leaves into the curry.
+
+**Spice Level**
+
+I use an extra hot cayenne pepper (80K), and find that 3 teaspoons is enough to satisfy my chili
+head tendencies for the spicy curry. If you're not as heat tolerant, you may want to use less, or
+even replace it with a bit more Kashmiri chili (which isn't particularly hot).
+
+Or just focus on the apricot curry.
+
+### Lavis Bread & Skrip
+
+**Langoustines**
+
+These are big, delicious creatures that look like something between a shrimp and a lobster. You can
+often source them from a specialty seafood shop or online, but they can be expensive.
+
+The shells are also quite thick and can be sharp, so be very mindful when cutting them open. If
+you're not experienced in this area, I recommend wearing a knife glove.
+
+If you'd rather avoid all this entirely, you can use some large shrimp, preferably with their heads
+still attached. The innards contribue significantly to the flavor of the sauce.
+
+**Lavis Bread**
+
+See the note in Errata above about sugar.
+
+### Old Dent's Chips
+
+This process produces quite light, crispy fries. I like to cut them about 1.5-2 times as thick as a
+McDonald's french fry, as you get more potato flavor that way.
+
+This whole process (par cooking and freezing) will produce a well-cooked fry that has a ton of tiny
+cracks in the surface. When the fries hit the oil, those cracks won't be visible, but they will
+give the hot oil more surface area to work with, which will produce a more crispy exterior.
+
+Parcooking also means the interiors of the fries will be fully cooked before frying, which means you
+can focus on getting them crisp without overbrowning.
+
+### Food for Nobles
+
+If you can swing it, it's worth getting decent caviar for this.
+
+### Kulunut Bread
+
+Yes, you can steam this as per Tress's original recipe.
+
+Place it in the pan and position the pan in a steamer over a pan of
+simmering water, and allow to steam for 45 minutes. Check for doneness (and possibly to add more
+boiling water to the pan underneath), and steam for up to an additional 30 minutes.
+
+I really recommend baking it, though, as the contrast of textures is very nice.
+
+**Macadamia Nuts**
+
+Most macadamia nuts out there are not great and likely rancid. Unless you live in a place that grows
+them, you're best off buying raw nuts from a good seller online. Keep them in the freezer and use
+them as quickly as possible.
+
+### Roast Venison
+
+You can use beef, and it'll be delicious if not exactly accurate to the books.
+
+### Ramen
+
+Read the whole recipe before you start, and give yourself a lot of time. Like, start the broth in
+the morning, otherwise you will be up braising pork at 1am.
+
+**The Schmaltz**
+
+You don't *have* to make this, but some kind of savory, aromatic oil is really important. If you
+don't want to make your own, you can buy schmaltz from some butchers.
+
+You can also make a scallion oil by cooking a bunch of scallions, cut into large pieces, in two cups
+of neutral oil over medium-low until the scallions are fully wilted and brown. Discard the scallions
+and use the oil in place of the schmaltz.
+
+**Toppings**
+
+I like the simplicity of this presentation, but feel free to add whatever excites you.
