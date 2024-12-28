@@ -1,0 +1,100 @@
+@font-face {
+  font-family: 'Bodoni 72 Bold';
+  src: url('bodoni72-bold.woff2') format('woff2'),
+       url('bodoni72-bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Futura Bold';
+  src: url('futura-bold.woff2') format('woff2'),
+       url('futura-bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rockwell Regular';
+  src: url('rockwell-regular.woff2') format('woff2'),
+       url('rockwell-regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rockwell Bold';
+  src: url('rockwell-bold.woff2') format('woff2'),
+       url('rockwell-bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rockwell Italic';
+  src: url('rockwell-italic.woff2') format('woff2'),
+       url('rockwell-italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Rockwell Bold Italic';
+  src: url('rockwell-bolditalic.woff2') format('woff2'),
+       url('rockwell-bolditalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+}
+
+
+body {
+  background-image: url('bg-vol1.png');
+}
+
+.center-box {
+  margin: auto;
+  width: 80%;
+  margin-top: 5%;
+
+  background-color: #fff;
+  border: 3px solid #000;
+  padding: 10px;
+  padding-top: 0;
+
+  font-family: 'Rockwell Regular';
+  font-size: 12pt;
+}
+
+h1 {
+  font-family: 'Bodoni 72 Bold';
+  font-weight: bold;
+  font-size: 40pt;
+  margin: 10px 0px;
+}
+
+h2 {
+  font-family: 'Futura Bold';
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 24pt;
+}
+
+h3 {
+  font-family: 'Futura Bold';
+  font-weight: bold;
+  font-size: 18pt;
+}
+
+strong {
+  font-family: 'Rockwell Bold';
+  font-weight: bold;
+}
+
+em {
+  font-family: 'Rockwell Italic';
+  font-style: italic;
+}
+
+li:not(:last-child) {
+  margin-bottom: 5px;
+}
