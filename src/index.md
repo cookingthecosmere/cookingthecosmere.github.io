@@ -40,7 +40,7 @@ Common variations include:
   remove other minerals, then ground into their final form. Due to the fine grind and compact form,
   table salt is quite salty; it can also be somewhat acrid due to additives (such as iodides and
   anti-caking agents).
-* **Kosher salt**: mined similar to table salt, but the brine is typically air-dried to produce specific
+* **Kosher salt**: mined similarly to table salt, but the brine is typically air-dried to produce specific
   crystal shapes, which are then washed to remove most other minerals. Different brands of kosher
   salt produce different crystal shapes. Some, such as Morton, produce a flat crystal, which is
   relatively compact (though not so much as table salt). Others, such as Diamond Crystal, produce
