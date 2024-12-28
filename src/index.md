@@ -54,7 +54,7 @@ Common variations include:
 * **Smoked salt**: a flavored salt, typically a coarse grind of sea or kosher salt. The crystals are
   smoked until they turn black, and they impart a smoky flavor when used as a finishing salt.
 
-All of the receipes in this book use *Diamond Crystal kosher salt*. If using table salt or Morton's
+All of the recipes in this book use **Diamond Crystal kosher salt**. If using table salt or Morton's
 kosher salt, consider halving the suggested quantities and adjusting to taste.
 
 ### Other ingredients
